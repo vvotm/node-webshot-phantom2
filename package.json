@@ -1,6 +1,6 @@
 {
-  "name": "webshot",
-  "version": "0.15.4",
+  "name": "webshot-phantom2",
+  "version": "0.15.4.2",
   "description": "Easy website screenshots",
   "author": "Brenden Kokoszka",
   "contributors": [
@@ -11,12 +11,17 @@
     {
       "name": "Matthew Chase Whittemore",
       "email": "mcwhittemore@gmail.com"
+    },
+    {
+      "name": "Richard Vida",
+      "email": "richardvida68@gmail.com"
     }
+
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/brenden/node-webshot.git"
+    "url": "http://github.com/brenden/node-webshot-phantom2.git"
   },
   "engine": [
     "node >=0.7.00"
@@ -28,7 +33,7 @@
     "tmp": "~0.0.23"
   },
   "optionalDependencies": {
-    "phantonjs2": "~2.0.0"
+    "phantonjs2": "^2.0.0"
   },
   "devDependencies": {
     "imagemagick": "git://github.com/rsms/node-imagemagick.git",
@@ -41,6 +46,7 @@
   },
   "keywords": [
     "screenshot",
-    "screengrab"
+    "screengrab",
+    "phantom2"
   ]
 }
