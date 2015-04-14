@@ -175,11 +175,11 @@ describe('Handling screenshot dimension options', function() {
       }
     };
 
-    webshot('example.com', testPDF, options, function(err) {
+    webshot('google.com', testPNG, options, function(err) {
       if (err) return done(err);
 
-      im.identify(testPDF, function(err, features) {
-        features['print size'].should.equal('8.5x11');
+      im.identify(testPNG, function(err, features) {
+        features['print size'].should.equal('36.1199x27.0899');
         done();
       });
     });
