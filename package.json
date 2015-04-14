@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/brenden/node-webshot-phantom2.git"
+    "url": "http://github.com/richardvida/node-webshot-phantom2.git"
   },
   "engine": [
     "node >=0.7.00"
