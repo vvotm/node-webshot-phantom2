@@ -29,11 +29,11 @@
   "dependencies": {
     "cross-spawn": "^0.2.3",
     "graceful-fs": "~3.0.4",
-    "phantomjs2": "^2.0.0",
+    "phantomjs2": ">=2.0.0",
     "tmp": "~0.0.23"
   },
   "optionalDependencies": {
-    "phantonjs2": "^2.0.0"
+    "phantonjs2": ">=2.0.0"
   },
   "devDependencies": {
     "imagemagick": "git://github.com/rsms/node-imagemagick.git",
