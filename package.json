@@ -1,27 +1,30 @@
 {
-  "name": "webshot-phantom2",
-  "version": "1.0.4",
+  "name": "webshot2",
+  "version": "2.0.0",
   "description": "Easy website screenshots",
-  "author": "Brenden Kokoszka",
+  "author": "luowen",
   "contributors": [
-    {
-      "name": "Brenden Kokoszka",
-      "email": "brenden.kokoszka@gmail.com"
-    },
-    {
-      "name": "Matthew Chase Whittemore",
-      "email": "mcwhittemore@gmail.com"
-    },
-    {
-      "name": "Richard Vida",
-      "email": "richardvida68@gmail.com"
-    }
-
+      {
+          "name": "Brenden Kokoszka",
+          "email": "brenden.kokoszka@gmail.com"
+      },
+      {
+          "name": "Matthew Chase Whittemore",
+          "email": "mcwhittemore@gmail.com"
+      },
+      {
+          "name": "Richard Vida",
+          "email": "richardvida68@gmail.com"
+      },
+      {
+          "name": "Wen Lo",
+          "email": "bigpao.luo@gmail.com"
+      }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/richardvida/node-webshot-phantom2.git"
+    "url": "http://github.com/vvotm/webshot2.git"
   },
   "engine": [
     "node >=0.7.00"

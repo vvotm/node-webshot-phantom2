@@ -1,6 +1,7 @@
-# node-webshot-phantom2
+# webshot2
 
-Very simple change to Brendan Kokoszka's original node-webshot in order to use phantom JS 2
+Very simple change to richardvida's original node-webshot-phantom2 in order to use phantom JS 2.1.x.
+because Phantom Js 2.0.0 not aviable...
 
 Webshot provides a simple API for taking webpage screenshots. The module is a
 light wrapper around PhantomJS 2, which utilizes WebKit to perform the page
